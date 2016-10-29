@@ -1,21 +1,21 @@
 {
   "header": {
-    "pack_id": "fe9f8597-5454-481a-8730-8d070a8e2e58",
-    "name": "resourcePack.vanilla_server.name",
-    "packs_version": "0.0.1",
+    "pack_id": "survivalcore",
+    "name": "Survivalcore",
+    "packs_version": "0.1",
     "modules": [
       {
-        "description": "resourcePack.vanilla_server.description",
-        "version": "0.0.1",
-        "uuid": "79fccc3b-7bad-4f4f-aa97-d98108e6aa33",
+        "description": "Make survival harder again!",
+        "version": "0.1",
+        "uuid": "9fc4d5dc-eae7-47a5-b148-6babee4ec4d4",
         "type": "data"
       }
     ],
     "dependencies": [
       {
-        "description": "resourcePack.vanilla.description",
-        "version": "0.0.1",
-        "uuid": "53644fac-a276-42e5-843f-a3c6f169a9ab",
+        "description": "Make survival harder again!",
+        "version": "0.1",
+        "uuid": "9fc4d5dc-eae7-47a5-b148-6babee4ec4d4",
         "type": "resources"
       }
     ]
